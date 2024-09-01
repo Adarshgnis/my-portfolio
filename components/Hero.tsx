@@ -36,13 +36,12 @@ const Hero = () => {
           </p>
 
           <TextGenerateEffect
-            words="👋 Hello! I'm Adarsh, a Web Developer."
-            // words="Transforming Concepts into Seamless User Experiences"
+            words="👋 Hello! I&apos;m Adarsh, a Web Developer."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-          I'm very passionate about the work that I do.
+          I&apos;m very passionate about the work that I do.
           </p>
 
           <a href="#projects">
